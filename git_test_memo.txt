@@ -39,5 +39,4 @@ Git (저장소 생성)
 - 커멘드
 	git init
 	git remote add origin https://github.com/choibc94/bno_gitTest
-	
-
+	git pull origin master
