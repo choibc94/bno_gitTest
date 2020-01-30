@@ -30,4 +30,14 @@ Git (저장소 생성)
 	git commit -m "message" (커밋한 내용의 커밋 메시지)
 	
 	git push origin master (실제로 Git에 PUSH)
+	
+	
+> 다른 사람 git 가져오기
+
+	새로운 폴더 생성
+	
+- 커멘드
+	git init
+	git remote add origin https://github.com/choibc94/bno_gitTest
+	
 
