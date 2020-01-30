@@ -29,5 +29,5 @@ Git (저장소 생성)
 	
 	git commit -m "message" (커밋한 내용의 커밋 메시지)
 	
-	git push origin +master (실제로 Git에 PUSH)
+	git push origin master (실제로 Git에 PUSH)
 
